@@ -1,19 +1,10 @@
 /****************************************************************
- * The ppmFile.c provided was edited and my code was added to the file 
- * for this submission that I've just made. The ppmFile.c was renamed to 
- * jimohma_A5.cu just to make my submission unique. 
- * Also, I received an extension from the prof for my submission till the end 
- * of 12/04/2019. 
- *
  * To run assignment, run make first and then use "hw5 radius inputfile.ppm outfile.ppm" 
  *
  * Read and write PPM files.  Only works for "raw" format.
  *
  ****************************************************************/
-// Name :: Muyideen Ayodele Jimoh 
-// Student# :: 001327114
-// macID :: jimohma
-// Assignment5
+// Developer's Name :: Ayodele Jimoh 
 // src: jimohma_A5.cu
 // Date :: 12/04/2019
 
