@@ -1,8 +1,8 @@
 /****************************************************************
- * To run assignment, run make first and then use "hw5 radius inputfile.ppm outfile.ppm" 
- *
+ * To run program, run make first and then use 
+ * command "ImageEditor radius inputfile.ppm outfile.ppm" 
  * Read and write PPM files.  Only works for "raw" format.
- * To get timing of program, run command "time Editor brushSize inputfile.ppm outputfile.ppm"
+ * To get timing of program, run command "time Editor brushRadius inputfile.ppm outputfile.ppm"
  * here brushSize is the level of blurness you want for the image being edited, 
  * inputfile.ppm is the image being edited and outfile.ppm is the edited image. 
  *
