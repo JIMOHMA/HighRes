@@ -6,7 +6,7 @@ multi-threading programming on GPU resources.
 
 Command for running program from command line prompt:
 	i) cd to the desktop where directory ("Photo_Editor") is cloned to
-	ii) type "hw5 radius inputfile.ppm outfile.ppm"
+	ii) type "ImageEditor radius inputfile.ppm outfile.ppm"
 		where 
 			radius --> how big you want your radius brush to be for 
 						applying the filter to your photo image
@@ -26,11 +26,11 @@ Command for running program from command line prompt:
 		
 		
 Sample satatemnt for running application: 
-		hw5 40 fox.ppm EDITED.ppm
+		ImageEditor 40 fox.ppm EDITED.ppm
 		The name of the output file for above command is "EDITED.ppm"
 	
 Sample satatemnt for running application: 
-		hw5 40 fox.ppm outputfile.ppm
+		ImageEditor 40 fox.ppm outputfile.ppm
 		The name of the output file for above command is "outputfile.ppm"
 		
 Sample satatemnt for running application: 
