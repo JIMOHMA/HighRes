@@ -1,12 +1,12 @@
-# Photo_Editor
+# HighRes
 
 Program was developed in C programming language, with the use of 
 CUDA programming interface. This CUDA API allow for the use of 
 multi-threading programming on GPU resources. 
 
 Command for running program from command line prompt:
-	i) cd to the desktop where directory ("Photo_Editor") is cloned to
-	ii) type "ImageEditor radius inputfile.ppm outfile.ppm"
+	i) cd to the desktop where directory ("HighRes") is cloned to
+	ii) type "HighRes radius inputfile.ppm outfile.ppm"
 		where 
 			radius --> how big you want your radius brush to be for 
 						applying the filter to your photo image
@@ -26,14 +26,14 @@ Command for running program from command line prompt:
 		
 		
 Sample satatemnt for running application: 
-		ImageEditor 40 fox.ppm EDITED.ppm
+		HighRes 40 fox.ppm EDITED.ppm
 		The name of the output file for above command is "EDITED.ppm"
 	
 Sample satatemnt for running application: 
-		ImageEditor 40 fox.ppm outputfile.ppm
+		HighRes 40 fox.ppm outputfile.ppm
 		The name of the output file for above command is "outputfile.ppm"
 		
 Sample satatemnt for running application: 
-		hw5 40 fox.ppm Result.ppm
+		HighRes 40 fox.ppm Result.ppm
 		The name of the output file for above command is "Result.ppm"
 								
