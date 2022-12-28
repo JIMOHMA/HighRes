@@ -1,4 +1,4 @@
-# Photo_Editor
+# HighRes
 
 _**ORIGINAL IMAGE**_
 ![fox](https://user-images.githubusercontent.com/36754815/108548953-85d8e600-72ba-11eb-9466-b5894fae78dd.jpg)
