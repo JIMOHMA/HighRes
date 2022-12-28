@@ -7,6 +7,7 @@ _**ORIGINAL IMAGE**_
 ![EDITED](https://user-images.githubusercontent.com/36754815/108549040-a4d77800-72ba-11eb-9ef1-9e0ccd7f2d7b.jpg)
 
 **_HOW TO RUN CODE ON A LINUX SERVER OR COMMAND LINE GIVEN YOU HAVE ENOUGH GPU RESOURCES_**
+![image](https://user-images.githubusercontent.com/36754815/209846438-37c1c86d-3e9b-43b7-9451-ab531924d2bd.png)
 
 ![How To Run](https://user-images.githubusercontent.com/36754815/108546926-d26ef200-72b7-11eb-99f4-d2eb77f39fc6.PNG)
 
